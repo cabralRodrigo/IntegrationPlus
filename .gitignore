@@ -10,3 +10,22 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+#minecraft stuff
+eclipse/asm
+eclipse/config
+eclipse/logs
+eclipse/mods
+eclipse/resourcepacks
+eclipse/saves
+eclipse/*.*
+
+#forgegradle stuff
+.gradle
+build
+out
+
+#idea stuff
+*.iml
+*.ipr
+*.iws
