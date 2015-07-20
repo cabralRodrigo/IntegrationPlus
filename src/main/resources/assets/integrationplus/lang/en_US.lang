@@ -1,0 +1,14 @@
+itemGroup.integrationplus=Integration +
+
+misc.integrationplus.press_shift=Hold &b&oSHIFT&r&7 for more info
+
+tile.integrationplus.mana_pool_proxy.name=Mana Pool Proxy
+tile.integrationplus.mana_pool_proxy.info.0=Place below a mana pool and wrap as a
+tile.integrationplus.mana_pool_proxy.info.1=peripheral on a computer/turtle
+
+tile.integrationplus.animal_scanner.basic.name=Animal Scanner (Basic)
+tile.integrationplus.animal_scanner.enhanced.name=Animal Scanner (Enhanced)
+tile.integrationplus.animal_scanner.advanced.name=Animal Scanner (Advanced)
+tile.integrationplus.animal_scanner.info.0=Reads information about animals
+tile.integrationplus.animal_scanner.info.1=in a area of &9%s block radius&7 above
+tile.integrationplus.animal_scanner.info.2=in a area of &9%s blocks radius&7 above

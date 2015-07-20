@@ -1,0 +1,14 @@
+[{
+  "modid": "integrationplus",
+  "name": "Integration +",
+  "description": "Let's integrate the whole modded world!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/cabralRodrigo/IntegrationPlus",
+  "updateUrl": "",
+  "authorList": ["RodrigoCabral"],
+  "credits": "Vazkii, Dan200, Pahimar",
+  "logoFile": "assets/integrationplus/textures/logo.png",
+  "screenshots": [],
+  "dependencies": ["Forge", "ComputerCraft"]
+}]
