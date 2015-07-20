@@ -1,10 +1,10 @@
-package rc.mods.integrationplus.common.integration;
+package rc.mods.integrationplus.common.integration.botania;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
+import rc.mods.integrationplus.common.integration.Integration;
 import rc.mods.integrationplus.common.lib.LibReference;
-import rc.mods.integrationplus.common.misc.IntegrationPlusWikiProvider;
 
 public final class IntegrationBotania extends Integration {
 
@@ -27,7 +27,7 @@ public final class IntegrationBotania extends Integration {
     public Block pool;
     public Item rune, manaResource;
 
-    protected IntegrationBotania() {
+    public IntegrationBotania() {
         super(LibReference.BOTANIA_ID, "Botania");
     }
 

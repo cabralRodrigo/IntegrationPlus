@@ -2,6 +2,7 @@ package rc.mods.integrationplus.common.integration;
 
 import cpw.mods.fml.common.Loader;
 import net.minecraftforge.common.config.Configuration;
+import rc.mods.integrationplus.common.integration.botania.IntegrationBotania;
 
 import java.util.ArrayList;
 

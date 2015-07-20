@@ -3,12 +3,9 @@ package rc.mods.integrationplus.common.handler;
 import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
-import cpw.mods.fml.common.registry.GameRegistry;
 import rc.mods.integrationplus.common.integration.Integration;
 import rc.mods.integrationplus.common.block.ModBlocks;
 import rc.mods.integrationplus.common.lib.LibMod;
-import rc.mods.integrationplus.common.lib.LibReference;
-import rc.mods.integrationplus.common.misc.IntegrationPlusWikiProvider;
 
 import java.io.File;
 

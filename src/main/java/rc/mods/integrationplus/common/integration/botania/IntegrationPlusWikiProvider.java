@@ -1,4 +1,4 @@
-package rc.mods.integrationplus.common.misc;
+package rc.mods.integrationplus.common.integration.botania;
 
 import net.minecraft.block.Block;
 import net.minecraft.util.MovingObjectPosition;

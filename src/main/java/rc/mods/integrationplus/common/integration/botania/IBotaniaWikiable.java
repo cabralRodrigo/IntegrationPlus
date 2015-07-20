@@ -1,4 +1,4 @@
-package rc.mods.integrationplus.common.misc;
+package rc.mods.integrationplus.common.integration.botania;
 
 /**
  * Define a block that can be provide their info to the botania's wiki system

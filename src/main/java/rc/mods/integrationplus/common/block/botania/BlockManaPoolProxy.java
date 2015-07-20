@@ -18,7 +18,7 @@ import net.minecraft.world.World;
 import rc.mods.integrationplus.common.block.BlockIntegrablePlus;
 import rc.mods.integrationplus.common.block.ModBlocks;
 import rc.mods.integrationplus.common.integration.Integration;
-import rc.mods.integrationplus.common.integration.IntegrationBotania;
+import rc.mods.integrationplus.common.integration.botania.IntegrationBotania;
 import rc.mods.integrationplus.common.integration.IntegrationComputerCraft;
 import rc.mods.integrationplus.common.lib.LibBlocks;
 import rc.mods.integrationplus.common.tileentity.botania.TileEntityManaPoolProxy;

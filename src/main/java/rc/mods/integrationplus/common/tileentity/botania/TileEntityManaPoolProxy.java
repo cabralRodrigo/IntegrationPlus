@@ -6,7 +6,7 @@ import dan200.computercraft.api.peripheral.IComputerAccess;
 import dan200.computercraft.api.peripheral.IPeripheral;
 import net.minecraft.tileentity.TileEntity;
 import rc.mods.integrationplus.common.integration.Integration;
-import rc.mods.integrationplus.common.integration.IntegrationBotania;
+import rc.mods.integrationplus.common.integration.botania.IntegrationBotania;
 import rc.mods.integrationplus.common.lib.LibPeripherals;
 import vazkii.botania.api.mana.IManaPool;
 

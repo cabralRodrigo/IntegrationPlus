@@ -15,7 +15,7 @@ import rc.mods.integrationplus.common.integration.Integration;
 import rc.mods.integrationplus.common.item.block.ItemBlockIntegrablePlus;
 import rc.mods.integrationplus.common.lib.LibMod;
 import rc.mods.integrationplus.common.misc.IBlockRegistrable;
-import rc.mods.integrationplus.common.misc.IBotaniaWikiable;
+import rc.mods.integrationplus.common.integration.botania.IBotaniaWikiable;
 import rc.mods.integrationplus.common.misc.IRecipeRegistrable;
 
 import java.util.List;
