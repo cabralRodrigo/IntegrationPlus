@@ -33,9 +33,11 @@ public class IntegrationPlusCreativeTab extends CreativeTabs {
 
             for (CreativeTabs tab : item.getCreativeTabs()) {
                 if (tab == this) {
-                    if (item instanceof IIntegrableResource)
-                        if (!((IIntegrableResource) item).getIntegration().isIntegrationAvailable())
+                    if (item instanceof IIntegrableResource) {
+                        IIntegrableResource integrableResource = (IIntegrableResource) item;
+                        if (integrableResource.hasIntegration() && !integrableResource.getIntegration().isIntegrationAvailable())
                             continue;
+                    }
 
                     item.getSubItems(item, this, items);
                 }
